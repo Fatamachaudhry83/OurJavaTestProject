@@ -7,7 +7,7 @@ public class HomeWork2 {
 		System.out.println("Ontario, Canada");
 		System.out.println();
 		System.out.println("Yellow");
-
+        System.out.println("Everything");
 	}
 
 }
